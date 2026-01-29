@@ -2,7 +2,7 @@
 QA testing project for the Szoo application.
 
 ## Description
-This is a QA testing project created for learning and portfolio purposes.  
+This is a QA testing project created for portfolio purposes.  
 The project includes a test plan, manual test cases, and automated tests.
 
 ## What I did
